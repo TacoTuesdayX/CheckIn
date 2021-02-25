@@ -11,5 +11,11 @@ You can run the app, assuming you have the dependencies (react-native, react-dom
 
 # Further dev:
 
+Redeploy serverless functions.
+Implement Dynamic routing
+Fix CORS issue raised when invoking endpoint functions
+User profiles and management console
+QR generator
+
 
 
